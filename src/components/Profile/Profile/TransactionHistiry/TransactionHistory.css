@@ -1,0 +1,30 @@
+.transactionHistory {
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    text-align: center;
+}
+
+.thead {
+    text-transform: uppercase;
+    background-color: rgb(122, 191, 180);
+}
+
+.th {
+    padding: 5px;
+}
+
+.tbody {
+    text-transform: capitalize;
+}
+
+.tr {
+    background-color: rgb(231, 231, 231);
+}
+
+.td {
+    padding: 5px 10px;
+}
