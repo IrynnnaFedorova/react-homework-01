@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { getBgColor } from "../../js/functions";
 
-import classes from "./statistics.css";
+import classes from "./Statistics.module.css";
 
 const Statistics = ({ title, stats }) => {
   return (

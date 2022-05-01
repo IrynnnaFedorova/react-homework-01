@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import classes from "./TransactionHistory.css";
+import classes from "./TransactionHistory.module.css";
 
 const TransactionHistory = ({ items }) => {
   return (
