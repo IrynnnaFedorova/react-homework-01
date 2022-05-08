@@ -2,7 +2,7 @@
   "name": "react-homework-01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/IrynnnaFedorova/react-homework-01",
+  "homepage": "https://IrynnnaFedorova.github.com/react-homework-01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
